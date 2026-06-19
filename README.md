@@ -1,28 +1,23 @@
-Programa Jovem Programador 2026
-(Iniciativa SEPROSC, apoio SENAC-SC)
+# O Último Desafio da Bruxa 🧙‍♀️
 
-Disciplina: Lógica de Programação
+**Programa Jovem Programador 2026** (Iniciativa SEPROSC, apoio SENAC/SC)  
+**Disciplina:** Lógica de Programação | **Professor:** Anderson Doneda
 
-Professor: Anderson Doneda
+## 🎯 Objetivo do Projeto
+Criar um jogo do gênero de suspense com elementos do folclore brasileiro utilizando a sintaxe do Portugol.
 
-Objetivo do projeto: Criar um jogo do gênero suspense com elementos do folclore brasileiro usando portugol.dev
+✔️ **PROJETO 1:** Um jogo textual colaborativo, criado para treinarmos o uso de variáveis, laços de repetição e fluxo de decisões complexas.
 
-✔️ PROJETO 1 - O Último Desafio da Bruxa: Um jogo textual colaborativo, criado para treinarmos o uso de variáveis, laços de repetição e fluxo de decisões.
+## 👥 Equipe Desenvolvedora
+* Priscila Ferreira Castaldo (pri1.castaldo@gmail.com)
+* Victor (victorfontanaa@gmail.com)
+* Gaby (gabryela.batalha@gmail.com)
+* Felipe (felipedeoliveiracorrea2007@gmail.com)
 
-Alunos: Priscila Ferreira Castaldo (pri1.castaldo@gmail.com)
-        Victor (victorfontanaa@gmail.com)
-        Gaby (gabryela.batalha@gmail.com)
-        Felipe (felipedeoliveiracorrea2007@gmail.com)
+## 🎮 Como jogar
 
-Para jogar:
-
- 1- baixe o arquivo jogo.por na sua máquina.
-
- 2- digite no seu navegador portugol.dev
-
-    2.1 na página do portugol clique em abrir arquivo
-
-    2.2 selecione o arquivo jogo.por que voce acabou de baixar
-    
-    2.3 pressione a tecla play, que é o primeiro botão no formato de triangulo que fica na parte de cima do lado esquerdo
-
+1. Baixe o arquivo `O_Ultimo_Desafio_Da_Bruxa.por` na sua máquina.
+2. Acesse no seu navegador a plataforma [portugol.dev](https://portugol.dev/).
+3. Na página inicial do Portugol Web Studio, clique em **Abrir Arquivo** (ou use o atalho `Ctrl + O`).
+4. Selecione o arquivo `.por` que você acabou de baixar.
+5. Pressione o botão **Play** (ícone de triângulo ▶️) localizado na parte superior esquerda para executar o código.
