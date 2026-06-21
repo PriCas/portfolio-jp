@@ -22,7 +22,7 @@ Criar um jogo do gênero de suspense com elementos do folclore brasileiro utiliz
 4. Selecione o arquivo `.por` que você acabou de baixar.
 5. Pressione o botão **Play** (ícone de triângulo ▶️) localizado na parte superior esquerda para executar o código.
 
-## 🎮 Estr
+## 🎮 Estrutura Lógica
 
 Estruturas de Dados: Uso de vetores para persistência de dados em tempo de execução (como historicoJogador e historicoPalitos).
 Modularização: Divisão limpa do fluxo do software em funções específicas para isolar responsabilidades (telas, lógica de jogo, cutscenes).
@@ -126,3 +126,7 @@ Criatividade (ASCII + animações)
 Organização do código
 Funcionamento geral
 Qualidade da apresentação
+
+<img width="658" height="593" alt="image jogo 1" src="https://github.com/user-attachments/assets/bd2ef0c7-4d55-443d-87be-65b53b1170c1" />
+<img width="541" height="519" alt="image jogo 2" src="https://github.com/user-attachments/assets/9dfe61ef-e5a6-4f42-91be-4301fe32892f" />
+<img width="295" height="357" alt="image jogo 3" src="https://github.com/user-attachments/assets/d45e9b0b-0217-4683-a798-6cf2e98967e3" />
